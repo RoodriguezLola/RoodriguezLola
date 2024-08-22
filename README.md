@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Holis, soy Lo✨</h1>
+</div>
+<h1 align="center"><img src="https://media.licdn.com/dms/image/D4D16AQGwwhgTAR-ATA/profile-displaybackgroundimage-shrink_200_800/0/1683242050955?e=2147483647&v=beta&t=ieWPg_uJEGbZMbNSy_M1zUt2jterRlZmFp_B1yhPh7Y"></h1>
+
+💻 Estudiante de Licenciatura en Informática en la UNLP
+## Lenguajes en aprendizaje
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"> <img src="https://images.dwncdn.net/images/t_app-icon-s/p/1e896bc4-1339-4506-a8d3-d2f9a877ad68/562590034/2069_4-10213735-imgingest-741691982240543393.png" alt="Pascal" width="38">
+
 
 <!--
 **RoodriguezLola/RoodriguezLola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
